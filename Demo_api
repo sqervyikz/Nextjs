@@ -1,0 +1,4 @@
+#nextjs setup for vercel api..
+#easy setup git fork for gitlab..
+git checkout -b nextjs
+git pull && git merge
